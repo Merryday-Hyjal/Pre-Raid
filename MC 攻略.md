@@ -1,14 +1,15 @@
-1. 视频一句话攻略及站位
+# 视频一句话攻略及站位
 https://ngabbs.com/read.php?tid=18931694&rand=629
-2. 官方攻略
+# 官方攻略
 https://ngabbs.com/read.php?tid=15485831&rand=656
-3. 外服攻略（较老）
+# 外服攻略（较老）
 https://ngabbs.com/read.php?tid=17628770
-4. 竞速BOSS小怪处理
+# 竞速BOSS小怪处理
 https://ngabbs.com/read.php?tid=19181273
-5. MT视角普通攻略
-1.2 MC 1-10
 
+
+# MT视角普通攻略
+1.12 MC 1-10
 1号
 
 打之前加暗抗buff
